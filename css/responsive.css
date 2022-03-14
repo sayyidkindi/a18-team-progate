@@ -1,0 +1,27 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    
+    /* Coding Css Responsive Sayyid */
+    .message-wrapper {
+      display:flex;
+      justify-content: center;
+    }
+    .profile {
+      width: 45%;
+      margin-bottom: 50px;  
+    }
+    /* Akhir Css Responsive Sayyid */
+    
+  }
+  
+  /* Untuk Smartphone */
+  @media all and (max-width: 670px) {
+    
+    /* Coding Css Responsive Sayyid */
+    .profile {
+      width: 70%;
+      margin-left: 15%;
+    }  
+    /* Akhir Css Responsive Sayyid */
+    
+  }
